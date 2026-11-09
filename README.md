@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -76,3 +77,7 @@ export default defineConfig([
 ])
 
 ```
+=======
+# Knightly-chess
+A responsive chess platform built with React, Typescript and chess.js
+>>>>>>> d32248cf9787677393387438979bbbf565665bab
